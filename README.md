@@ -266,3 +266,4 @@ Update daserver config to introduce new configuration fields:
 Take the hash, check the output:
 
 `target/bin/datool client rest getbyhash --url http://localhost:7877 --data-hash 0xea7c19deb86746af7e65c131e5040dbd5dcce8ecb3ca326ca467752e72915185`
+contact: cd9b9351fd8ec40c8e82df9803e911c30064c6a07d4e156df2880b2a5290e58c
